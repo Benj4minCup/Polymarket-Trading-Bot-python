@@ -126,9 +126,8 @@ With approximately $2,500 recommended starting capital, the bot is optimized for
 
 And you can watch this bot running video with this.
 
+[<img width="1801" height="873" alt="Crypto Trading Dashboard and Execution Logs" src="https://github.com/user-attachments/assets/5767947d-710e-4ad0-8a33-a186a8b6bfdb" />](https://www.youtube.com/watch?v=UCF7MA1Kekk)
 
-[<img width="1801" height="874" alt="ma-bot-6" src="https://github.com/user-attachments/assets/8d2c7930-bdcd-4aaa-8a82-95bc33404ace" />
-](https://www.youtube.com/watch?v=0g81khaRjkE)
 
 ---
 
